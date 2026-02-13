@@ -3,7 +3,7 @@ export const SITE = {
   author: "Prithwish Ganguli",
   profile: "https://satnaing.dev/",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "Prithwish Ganguli",
+  title: "Prithwish Ganguli | Blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Edit page",
-    url: "https://github.com/gangulisabyasachi/astro-paper.git",
+    url: "https://github.com/gangulisabyasachi/astro-paper/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"

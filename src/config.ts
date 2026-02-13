@@ -3,7 +3,7 @@ export const SITE = {
   author: "Prithwish Ganguli",
   profile: "https://satnaing.dev/",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "Prithwish Ganguli | Blog",
+  title: "Prithwish Ganguli",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,

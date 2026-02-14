@@ -3,7 +3,7 @@ author: Prithwish Ganguli
 pubDatetime: 2026-02-13T12:00:00Z
 modDatetime: 2026-02-13T12:00:00Z
 title: Delayed Flat Possession in Kolkata? Know Your Legal Rights
-featured: true
+featured: false
 draft: false
 tags:
   - Real Estate Law

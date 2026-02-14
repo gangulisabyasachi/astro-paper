@@ -11,7 +11,7 @@ tags:
   - Mutual Consent Divorce
   - Hindu Marriage Act
   - Legal Separation
-description: >
+description: 
   Considering mutual divorce in India? Learn the complete process, cooling-off period, advantages, required documents, and how it compares to contested divorce. Fast, affordable, and amicable way to end marriage.
 ---
 

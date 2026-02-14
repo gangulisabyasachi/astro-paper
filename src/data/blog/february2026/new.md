@@ -11,9 +11,7 @@ tags:
   - Mutual Consent Divorce
   - Legal Guide
   - Marriage Law
-description:
-  Learn everything about mutual consent divorce in India, including process,
-  timeline, legal requirements, advantages, and differences from contested divorce.
+description: Learn everything about mutual consent divorce in India, including process, timeline, legal requirements, advantages, and differences from contested divorce.
 ---
 
 Mutual divorce, also known as mutual consent divorce, is a legal process where both spouses agree to end their marriage peacefully. It is the simplest, fastest, and least stressful way to dissolve a marriage because there is no dispute between the parties.
@@ -73,8 +71,6 @@ Mutual divorce offers several important benefits:
 - Predictable outcome  
 - Higher compliance with agreed settlement  
 
-It allows both spouses to separate amicably and maintain dignity.
-
 ## Mutual Divorce vs Contested Divorce
 
 | Parameter | Mutual Divorce | Contested Divorce |
@@ -92,23 +88,21 @@ It allows both spouses to separate amicably and maintain dignity.
 
 ## Legal Procedure for Mutual Divorce in India
 
-The process generally involves the following steps:
-
 ### Step 1: Filing Joint Petition
 
-Both spouses jointly file a petition before the Family Court stating that they mutually agree to divorce.
+Both spouses jointly file a petition before the Family Court stating mutual consent.
 
 ### Step 2: First Motion Hearing
 
-The court records statements of both spouses and verifies consent.
+The court records statements and verifies consent.
 
 ### Step 3: Cooling-off Period
 
-A waiting period of 6 months is provided, which may be waived by the court.
+A 6-month waiting period is provided (may be waived).
 
 ### Step 4: Second Motion Hearing
 
-Both spouses appear again and confirm their decision.
+Both spouses confirm their decision.
 
 ### Step 5: Divorce Decree
 
@@ -118,13 +112,4 @@ The court grants the divorce and legally dissolves the marriage.
 
 Mutual consent divorce is the most efficient and peaceful method to end a marriage. It saves time, reduces emotional stress, and avoids lengthy legal battles.
 
-If both spouses agree on separation and settlement terms, mutual divorce provides a respectful and legally sound solution.
-
 Seeking proper legal guidance ensures the process is smooth, fast, and legally secure.
-
----
-
-**Author:**  
-Prithwish Ganguli, Advocate  
-LLM (CU), MA Criminology & Forensic Science (NALSAR)  
-MA Sociology (SRU), MA Psychology (SGVU)

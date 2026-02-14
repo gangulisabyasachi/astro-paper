@@ -1,7 +1,7 @@
 ---
 author: Prithwish Ganguli
-pubDatetime: 2026-02-14
-modDatetime: 2026-02-15
+pubDatetime: 2026-02-16
+modDatetime: 2026-02-16
 title: Mutual Consent Divorce in India? Know Your Legal Rights & Process
 featured: true
 draft: false

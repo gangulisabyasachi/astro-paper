@@ -1,7 +1,7 @@
 ---
 author: Prithwish Ganguli
-pubDatetime: 2026-02-15
-modDatetime: 2026-02-15
+pubDatetime: 2026-02-14
+modDatetime: 2026-02-14
 title: Can Divorce Be Filed Without Spouse’s Consent in Kolkata? Complete Legal Guide
 featured: true
 draft: false

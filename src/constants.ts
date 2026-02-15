@@ -36,6 +36,18 @@ export const SOCIALS: Social[] = [
     icon: IconLinkedin,
   },
   {
+    name: "Facebook",
+    href: "https://www.facebook.com/prithwishg/",
+    linkTitle: `${SITE.title} on Facebook`,
+    icon: IconFacebook,
+  },
+  {
+    name:"Instagram",
+    href: "https://www.instagram.com/ganguliprithwish/",
+    linkTitle: `${SITE.title} on Instagram`,
+    icon: () => <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6"><path d="M7.75 2C4.67893 2 2 4.67893 2 7.75V16.25C2 19.3211 4.67893 22 7.75 22H16.25C19.3211 22 22 19.3211 22 16.25V7.75C22 4.67893 19.3211 2 16.25 2H7.75ZM12 8C14.2091 8 16 9.79086 16 12C16 14.2091 14.2091 16 12 16C9.79086 16 8 14.2091 8 12C8 9.79086 9.79086 8 12 8ZM17.5 7C18.3284 7 19 6.32843 19 5.5C19 4.67157 18.3284 4 17.5 4C16.6716 4 16 4.67157 16 5.5C16 6.32843 16.6716 7 17.5 7Z" /></svg>,
+  },
+  {
     name: "Mail",
     href: "mailto:prithwishganguli@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,

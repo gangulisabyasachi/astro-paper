@@ -3,7 +3,6 @@ import { Font } from "astro:assets";
 import { ClientRouter } from "astro:transitions";
 import { PUBLIC_GOOGLE_SITE_VERIFICATION } from "astro:env/client";
 import { SITE } from "@/config";
-import "@/styles/global.css";
 
 type Props = {
   title?: string;
@@ -15,6 +14,7 @@ type Props = {
   pubDatetime?: Date;
   modDatetime?: Date | null;
   scrollSmooth?: boolean;
+  keywords?: string;           // ← NEW: accepts keywords from child pages
 };
 
 const {
@@ -27,9 +27,15 @@ const {
   pubDatetime,
   modDatetime,
   scrollSmooth = false,
+  keywords = "",               // ← default empty → we'll provide fallback below
 } = Astro.props;
 
 const socialImageURL = new URL(ogImage, Astro.url);
+
+// Final keywords value: use passed prop, or fallback to site-wide default
+const finalKeywords = keywords.trim() 
+  ? keywords 
+  : "family law, divorce Kolkata, contested divorce, matrimonial disputes, Supreme Court judgments, Indian Evidence Act, Kolkata lawyer";
 
 const structuredData = {
   "@context": "https://schema.org",
@@ -51,7 +57,7 @@ const structuredData = {
 <!doctype html>
 <html
   dir={SITE.dir}
-  lang=`${SITE.lang ?? "en"}`
+  lang={`${SITE.lang ?? "en"}`}
   class={`${scrollSmooth && "scroll-smooth"}`}
 >
   <head>
@@ -72,6 +78,10 @@ const structuredData = {
     <meta name="title" content={title} />
     <meta name="description" content={description} />
     <meta name="author" content={author} />
+
+    <!-- NEW: Keywords meta tag -->
+    <meta name="keywords" content={finalKeywords} />
+
     <link rel="sitemap" href="/sitemap-index.xml" />
 
     <!-- Open Graph / Facebook -->
@@ -112,8 +122,7 @@ const structuredData = {
       set:html={JSON.stringify(structuredData)}
     />
 
-    <!-- Enable RSS feed auto-discovery  -->
-    <!-- https://docs.astro.build/en/recipes/rss/#enabling-rss-feed-auto-discovery -->
+    <!-- Enable RSS feed auto-discovery -->
     <link
       rel="alternate"
       type="application/rss+xml"
@@ -124,9 +133,6 @@ const structuredData = {
     <meta name="theme-color" content="" />
 
     {
-      // If PUBLIC_GOOGLE_SITE_VERIFICATION is set in the environment variable,
-      // include google-site-verification tag in the heading
-      // Learn more: https://support.google.com/webmasters/answer/9008080#meta_tag_verification&zippy=%2Chtml-tag
       PUBLIC_GOOGLE_SITE_VERIFICATION && (
         <meta
           name="google-site-verification"
@@ -137,7 +143,7 @@ const structuredData = {
 
     <ClientRouter />
 
-    <!-- Minimal inline script to prevent FOUC - sets theme immediately -->
+    <!-- Minimal inline script to prevent FOUC -->
     <script is:inline>
       (function () {
         const initialColorScheme = ""; // "light" | "dark"
@@ -153,10 +159,8 @@ const structuredData = {
 
         const themeValue = getPreferTheme();
 
-        // Set theme immediately to prevent flash
         document.firstElementChild?.setAttribute("data-theme", themeValue);
 
-        // Export minimal API for external script
         window.theme = {
           themeValue: themeValue,
           getTheme: () => window.theme.themeValue,

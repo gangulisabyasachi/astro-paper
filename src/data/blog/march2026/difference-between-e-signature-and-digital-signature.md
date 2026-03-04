@@ -1,7 +1,7 @@
 ---
 author: Prithwish Ganguli
-pubDatetime: 2026-03-02T00:35:00Z
-modDatetime: 2026-03-02T00:35:00Z
+pubDatetime: 2026-03-02
+modDatetime: 2026-03-02
 title: What Is the Difference Between an E-Signature and a Digital Signature?
 # slug: difference-between-e-signature-and-digital-signature
 featured: false

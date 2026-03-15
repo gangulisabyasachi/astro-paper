@@ -1,7 +1,7 @@
 ---
 author: Prithwish Ganguli
-pubDatetime: 2026-03-15T12:33:00Z
-modDatetime: 2026-03-15T12:33:00Z
+pubDatetime: 2026-03-15
+modDatetime: 2026-03-15
 title: Prevention and Control of Child Pornography in Cyberspace — Legal Provisions in India
 # slug: prevention-control-child-pornography-cyberspace-india
 featured: false

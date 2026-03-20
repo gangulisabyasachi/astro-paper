@@ -1,7 +1,7 @@
 ---
 author: Prithwish Ganguli
-pubDatetime: 2026-03-20T11:52:00Z
-modDatetime: 2026-03-20T11:52:00Z
+pubDatetime: 2026-03-20
+modDatetime: 2026-03-20
 title: Can FIR Be Quashed After Settlement in 498A Case? Legal Position in India
 # slug: quashing-498a-fir-after-settlement
 featured: false

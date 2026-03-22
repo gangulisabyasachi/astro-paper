@@ -1,10 +1,10 @@
 ---
 author: Prithwish Ganguli
-pubDatetime: 2026-03-23T12:59:00Z
-modDatetime: 2026-03-23T12:59:00Z
+pubDatetime: 2026-03-23
+modDatetime: 2026-03-23
 title: How to Get Divorce Quickly in Kolkata in 2026 – Fast-Track Mutual Consent Guide
-slug: how-to-get-divorce-quickly-in-kolkata-2026
-featured: true
+# slug: how-to-get-divorce-quickly-in-kolkata-2026
+featured: false
 draft: false
 tags:
   - Divorce Kolkata

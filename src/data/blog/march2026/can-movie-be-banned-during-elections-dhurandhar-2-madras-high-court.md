@@ -1,7 +1,7 @@
 ---
 author: Prithwish Ganguli
-pubDatetime: 2026-03-23T14:20:00Z
-modDatetime: 2026-03-23T14:20:00Z
+pubDatetime: 2026-03-23
+modDatetime: 2026-03-23
 title: Can a Movie Be Banned During Elections? Legal Debate Over Dhurandhar 2 Reaches Madras High Court
 slug: can-movie-be-banned-during-elections-dhurandhar-2-madras-high-court
 featured: true

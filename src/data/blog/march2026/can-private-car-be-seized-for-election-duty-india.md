@@ -1,7 +1,7 @@
 ---
 author: Prithwish Ganguli
-pubDatetime: 2026-03-23
-modDatetime: 2026-03-23
+pubDatetime: 2026-03-25
+modDatetime: 2026-03-25
 title: Can Your Private Car Be Seized for Election Duty? Know Your Legal Rights in India
 # slug: can-private-car-be-seized-for-election-duty-india
 featured: false

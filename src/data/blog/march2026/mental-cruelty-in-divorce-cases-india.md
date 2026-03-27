@@ -1,7 +1,7 @@
 ---
 author: Prithwish Ganguli
-pubDatetime: 2026-03-27T23:57:00Z
-modDatetime: 2026-03-27T23:57:00Z
+pubDatetime: 2026-03-27
+modDatetime: 2026-03-27
 title: Mental Cruelty in Divorce Cases in India – Types, Legal Principles & Supreme Court Judgments
 slug: mental-cruelty-in-divorce-cases-india
 featured: true

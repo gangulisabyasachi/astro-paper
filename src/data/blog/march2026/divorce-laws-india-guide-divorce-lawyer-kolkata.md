@@ -1,7 +1,7 @@
 ---
 author: Prithwish Ganguli
-pubDatetime: 2026-03-28T17:42:00+05:30
-modDatetime: 2026-03-28T17:42:00+05:30
+pubDatetime: 2026-03-28
+modDatetime: 2026-03-28
 title: Divorce Laws in India: Complete Guide to Mutual, Contested Divorce, Custody & Legal Rights
 # slug: divorce-laws-india-guide-divorce-lawyer-kolkata
 featured: false

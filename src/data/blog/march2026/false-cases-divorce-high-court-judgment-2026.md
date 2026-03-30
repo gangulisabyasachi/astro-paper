@@ -25,6 +25,8 @@ In a significant 2026 ruling, the Madras High Court delivered a strong message:
 
 👉 False allegations, criminal complaints, and prolonged separation can justify divorce—even if one spouse later claims willingness to continue the marriage.
 
+## Table of contents
+
 ## ⚖️ Case Summary: What Really Happened
 
 In Muthukumar vs Karpagavalli (2026):

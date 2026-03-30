@@ -21,6 +21,8 @@ Buying a home is one of the most significant investments in a person’s life. W
 
 If you are facing such a situation, Indian law provides strong remedies to protect homebuyers.
 
+## Table of contents
+
 ## Why Delayed Possession Is Legally Wrong
 
 When a builder signs an **Agreement for Sale**, the possession date mentioned becomes legally binding. Failure to deliver the flat within that timeframe amounts to:

@@ -19,6 +19,8 @@ Ending a marriage is one of the most significant legal decisions a person can ma
 
 If you and your spouse are considering separation by mutual agreement, Indian law (primarily under Section 13B of the Hindu Marriage Act, 1955 — and similar provisions in other personal laws) provides a clear, structured, and relatively quick process.
 
+## Table of contents
+
 ## Why Mutual Consent Divorce Is Legally Preferred
 
 When both parties jointly agree to dissolve the marriage and settle all related issues (custody, alimony, property, etc.) beforehand, it is treated as:

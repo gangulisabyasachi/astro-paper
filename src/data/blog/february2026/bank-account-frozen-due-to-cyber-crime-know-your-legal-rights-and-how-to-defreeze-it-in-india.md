@@ -21,6 +21,9 @@ Freezing of bank accounts due to alleged cyber fraud transactions has become inc
 
 This can severely disrupt business operations, salary payments, and daily financial activities. Understanding your legal rights and remedies is essential to challenge such illegal freezing and restore access to your funds.
 
+## Table of contents
+
+
 ## Legal Position Under Indian Law
 
 Under Indian law, investigating agencies cannot arbitrarily or indefinitely freeze bank accounts. Freezing must follow proper legal procedure and be supported by material evidence showing involvement in the alleged offence.

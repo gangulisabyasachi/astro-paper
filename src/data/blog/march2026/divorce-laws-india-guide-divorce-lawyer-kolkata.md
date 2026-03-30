@@ -29,6 +29,9 @@ This comprehensive guide explains all aspects of divorce, including:
 
 ---
 
+## Table of contents
+
+
 ## Understanding Divorce Law in India
 
 The divorce law in India is primarily governed by different personal laws, such as:

@@ -27,6 +27,8 @@ But the critical question is:
 
 Let’s break down the law in simple terms.
 
+## Table of contents
+
 ## What Does the Law Say About Vehicle Requisition?
 
 The power to requisition vehicles comes from **Section 160 of the Representation of the People Act, 1951**.

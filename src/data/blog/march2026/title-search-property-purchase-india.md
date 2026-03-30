@@ -22,6 +22,9 @@ description: |
 
 Buying a property is a major financial investment, but many buyers overlook the most critical step — **title search in property purchase in India**. Without proper **property title verification**, you risk purchasing a disputed or legally defective property. A thorough legal check ensures that your investment is safe and free from future complications.
 
+## Table of contents
+
+
 ## What is Title Search in Property?
 
 A **title search** is the process of verifying the **legal ownership** and history of a property. It ensures that the seller has a clear and marketable title and the legal right to transfer ownership. This is a key component of **property legal check in India**.

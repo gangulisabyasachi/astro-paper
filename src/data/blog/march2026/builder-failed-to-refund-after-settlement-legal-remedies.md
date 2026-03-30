@@ -23,6 +23,8 @@ Buying a home is often the biggest financial decision in a person’s life. But 
 
 This situation is becoming increasingly common—and legally, the homebuyer is not without remedies.
 
+## Table of contents
+
 ## The Legal Problem Explained
 
 A typical scenario unfolds like this:

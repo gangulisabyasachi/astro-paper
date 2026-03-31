@@ -1,8 +1,9 @@
 ---
 author: Prithwish Ganguli
-pubDatetime: 2026-04-01T00:42:00+05:30
-modDatetime: 2026-04-01T00:42:00+05:30
+pubDatetime: 2026-04-01T00:04:00+05:30
+modDatetime: 2026-04-01T00:04:00+05:30
 title: Non-Payment of Maintenance = Mental Cruelty: Rajasthan High Court Grants Divorce | Landmark Judgment Explained
+# slug: non-payment-maintenance-mental-cruelty-rajasthan-high-court-divorce
 featured: false
 draft: false
 tags:
@@ -22,8 +23,6 @@ description: |
 In a significant ruling strengthening women’s rights in matrimonial disputes, the Rajasthan High Court has held that persistent non-payment of maintenance, repeated absence in court proceedings, and abandonment of marital responsibilities amount to mental cruelty under Section 13(1)(i-a) of the Hindu Marriage Act, 1955.
 
 This judgment is crucial for individuals facing maintenance disputes, desertion, and matrimonial harassment in India, as it clearly establishes that financial neglect and legal non-compliance can be valid grounds for divorce.
-
-## Table of contents
 
 ## Case Reference
 

@@ -15,7 +15,8 @@ async function loadGoogleFont(
   ).text();
 
   const resource = css.match(
-    /src: url\((.+?)\) format\('(opentype|truetype)'\)/
+    // /src: url\((.+?)\) format\('(opentype|truetype)'\)/
+    /src: url\((.+?)\) format\('(woff2|opentype|truetype)'\)/
   );
 
   if (!resource) throw new Error("Failed to download dynamic font");
@@ -36,14 +37,14 @@ async function loadGoogleFonts(
 > {
   const fontsConfig = [
     {
-      name: "IBM Plex Mono",
-      font: "IBM+Plex+Mono",
+      name: "Crimson Text",
+      font: "Crimson+Text",
       weight: 400,
       style: "normal",
     },
     {
-      name: "IBM Plex Mono",
-      font: "IBM+Plex+Mono",
+      name: "Crimson Text",
+      font: "Crimson+Text",
       weight: 700,
       style: "bold",
     },

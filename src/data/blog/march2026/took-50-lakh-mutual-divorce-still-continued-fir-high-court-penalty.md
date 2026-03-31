@@ -30,6 +30,8 @@ In this case, a woman — despite receiving ₹50 lakh in a mutual divorce settl
 
 The Court didn’t take this lightly.
 
+## Table of contents
+
 ## What Happened in the Case?
 
 - Husband and wife obtained divorce by mutual consent  

@@ -15,7 +15,7 @@ tags:
   - Family Law
   - Divorce Lawyer Kolkata
 description: |
-  Rajasthan High Court rules that persistent non-payment of maintenance and ignoring court proceedings amount to mental cruelty. Landmark judgment grants divorce to wife under Section 13(1)(i-a) of Hindu Marriage Act.
+  Rajasthan High Court rules that persistent non-payment of maintenance and ignoring court proceedings amount to mental cruelty. Landmark judgment grants divorce to wife under Section  of Hindu Marriage Act.
 ---
 
 # Non-Payment of Maintenance = Mental Cruelty: Rajasthan High Court Grants Divorce | Landmark Judgment Explained

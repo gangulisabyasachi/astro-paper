@@ -2,6 +2,7 @@
 import { Font } from "astro:assets";
 import { ClientRouter } from "astro:transitions";
 import { PUBLIC_GOOGLE_SITE_VERIFICATION } from "astro:env/client";
+import SpeedInsights from "@vercel/speed-insights/astro";
 import { SITE } from "@/config";
 import "@/styles/global.css";
 
@@ -55,22 +56,30 @@ const structuredData = {
   class={`${scrollSmooth && "scroll-smooth"}`}
 >
   <head>
-     <!-- Google Tag Manager -->
-      <script is:inline>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-      })(window,document,'script','dataLayer','GTM-TBNXV7PK');
-      </script>
-      <!-- End Google Tag Manager -->
+    <!-- Google Tag Manager -->
+    <script is:inline>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+        j.async = true;
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-TBNXV7PK");
+    </script>
+    <!-- End Google Tag Manager -->
 
-      
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="canonical" href={canonicalURL} />
     <meta name="generator" content={Astro.generator} />
-    <meta name="google-site-verification" content="imOfV8qglNxFjO1Wn9pJPVr5tOMKPHPHgrs2gYf7CSU" />
+    <meta
+      name="google-site-verification"
+      content="imOfV8qglNxFjO1Wn9pJPVr5tOMKPHPHgrs2gYf7CSU"
+    />
     <!-- Load Font -->
     <Font
       cssVariable="--font-google-sans-code"
@@ -78,13 +87,18 @@ const structuredData = {
     />
     <!-- Google Analytics -->
     <!-- Google tag (gtag.js) -->
-    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-639PW8MZHQ"></script>
+    <script
+      is:inline
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-639PW8MZHQ"></script>
     <script is:inline>
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-      gtag('config', 'G-639PW8MZHQ');
+      gtag("config", "G-639PW8MZHQ");
     </script>
     <!-- General Meta Tags -->
     <title>{title}</title>
@@ -156,6 +170,8 @@ const structuredData = {
 
     <ClientRouter />
 
+    <SpeedInsights />
+
     <!-- Minimal inline script to prevent FOUC - sets theme immediately -->
     <script is:inline>
       (function () {
@@ -187,13 +203,20 @@ const structuredData = {
     </script>
 
     <!-- Google Adsense -->
-     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3030141904524078"
-     crossorigin="anonymous"></script>
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3030141904524078"
+      crossorigin="anonymous"></script>
   </head>
   <body>
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TBNXV7PK"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <noscript
+      ><iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-TBNXV7PK"
+        height="0"
+        width="0"
+        style="display:none;visibility:hidden"></iframe></noscript
+    >
     <!-- End Google Tag Manager (noscript) -->
     <slot />
 

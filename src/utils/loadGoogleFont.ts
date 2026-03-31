@@ -36,14 +36,14 @@ async function loadGoogleFonts(
 > {
   const fontsConfig = [
     {
-      name: "Libre Baskerville",
-      font: "Libre+Baskerville",
+      name: "IBM Plex Mono",
+      font: "IBM+Plex+Mono",
       weight: 400,
       style: "normal",
     },
     {
-      name: "Libre Baskerville",
-      font: "Libre+Baskerville",
+      name: "IBM Plex Mono",
+      font: "IBM+Plex+Mono",
       weight: 700,
       style: "bold",
     },

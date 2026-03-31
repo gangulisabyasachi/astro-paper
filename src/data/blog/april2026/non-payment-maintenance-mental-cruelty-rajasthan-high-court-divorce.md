@@ -1,7 +1,7 @@
 ---
 author: Prithwish Ganguli
-pubDatetime: 2026-04-01T
-modDatetime: 2026-04-01T
+pubDatetime: 2026-04-01
+modDatetime: 2026-04-01
 title: Non-Payment of Maintenance = Mental Cruelty -  Rajasthan High Court Grants Divorce | Landmark Judgment Explained
 # slug: non-payment-maintenance-mental-cruelty-rajasthan-high-court-divorce
 featured: false

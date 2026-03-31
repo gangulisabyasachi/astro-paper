@@ -1,7 +1,7 @@
 ---
 author: Prithwish Ganguli
-pubDatetime: 2026-03-31T11:51:00+05:30
-modDatetime: 2026-03-31T11:51:00+05:30
+pubDatetime: 2026-03-31T23:51:00+05:30
+modDatetime: 2026-03-31T23:51:00+05:30
 title: Took ₹50 Lakh in Mutual Divorce, Still Continued FIR? High Court Imposes ₹1 Lakh Penalty for Misuse of Law
 # slug: took-50-lakh-mutual-divorce-still-continued-fir-high-court-penalty
 featured: false

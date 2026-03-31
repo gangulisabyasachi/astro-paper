@@ -48,12 +48,3 @@ From a broader perspective, this decision highlights a crucial aspect of family 
 ## Conclusion of the Court
 
 In conclusion, the Delhi High Court has made it unequivocally clear that voluntary retirement does not absolve a husband of his duty to pay maintenance. The ruling serves as a strong reminder that courts will look beyond superficial claims of reduced income and focus on the real ability of an individual to support their spouse. This ensures that the true objective of maintenance laws—protecting the rights and dignity of the dependent spouse—is upheld.
-
-## Keywords
-
-- Delhi High Court maintenance judgment
-- voluntary retirement maintenance India
-- maintenance law India wife rights
-- earning capacity maintenance case
-- husband cannot avoid maintenance
-- family law India maintenance

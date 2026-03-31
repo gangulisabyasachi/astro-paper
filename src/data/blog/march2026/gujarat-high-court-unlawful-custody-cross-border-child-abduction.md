@@ -6,15 +6,6 @@ title: Gujarat High Court Rules Father’s Custody “Unlawful” in Cross-Borde
 # slug: gujarat-high-court-unlawful-custody-cross-border-child-abduction
 featured: false
 draft: false
-Here is the complete, ready-to-copy Markdown file for your blog post with all the hashtags you provided converted into proper tags, current IST timestamp, and clean AstroPaper formatting:
-Markdown---
-author: Prithwish Ganguli
-pubDatetime: 2026-03-30T11:34:00+05:30
-modDatetime: 2026-03-30T11:34:00+05:30
-title: Gujarat High Court Rules Father’s Custody “Unlawful” in Cross-Border Child Abduction Case – A Landmark Judgment on Child Welfare
-slug: gujarat-high-court-unlawful-custody-cross-border-child-abduction
-featured: true
-draft: false
 tags:
   - Law
   - LegalNews
@@ -59,7 +50,7 @@ tags:
   - LawContent
   - LegalAwareness
   - KnowYourRights
-  
+
 description: |
   Gujarat High Court rules father’s custody unlawful in cross-border child abduction case. Landmark judgment emphasizes child’s welfare, respect for foreign court orders, and best interest of the child in international custody disputes.
 ---

@@ -2,7 +2,7 @@
 author: Prithwish Ganguli
 pubDatetime: 2026-04-02T00:26:00+05:30
 modDatetime: 2026-04-02T00:26:00+05:30
-title: Maintenance Denied: When a Wife’s Own Actions Lead to Husband’s Financial Incapacity
+title: Maintenance Denied -  When a Wife’s Own Actions Lead to Husband’s Financial Incapacity
 # slug: maintenance-denied-wife-actions-husband-financial-incapacity
 featured: false
 draft: false

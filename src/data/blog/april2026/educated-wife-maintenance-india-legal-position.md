@@ -1,7 +1,7 @@
 ---
 author: Prithwish Ganguli
-pubDatetime: 2026-04-02T00:40:00+05:30
-modDatetime: 2026-04-02T00:40:00+05:30
+pubDatetime: 2026-04-04T00:01:00+05:30
+modDatetime: 2026-04-04T00:01:00+05:30
 title: Can an Educated Wife Claim Maintenance in India? Legal Position Explained with Landmark Case Law
 # slug: educated-wife-maintenance-india-legal-position
 featured: false

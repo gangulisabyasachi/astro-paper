@@ -22,15 +22,6 @@ description: |
 
 ## Table of Contents
 
-- [Case Reference](#case-reference)
-- [Background: Maintenance Enhanced by Family Court](#background-maintenance-enhanced-by-family-court)
-- [Husband’s Argument](#husbands-argument)
-- [Wife’s Stand](#wifes-stand)
-- [Gujarat High Court’s Key Observations](#gujarat-high-courts-key-observations)
-- [Final Judgment: Maintenance Reduced](#final-judgment-maintenance-reduced)
-- [Key Takeaways for Maintenance Cases](#key-takeaways-for-maintenance-cases)
-- [Impact on Maintenance Law in India](#impact-on-maintenance-law-in-india)
-
 Gujarat High Court Cuts Excessive Maintenance: Inflation Alone Not Enough to Double Amount
 
 In a noteworthy ruling on maintenance law in India, the Gujarat High Court has clarified that enhancement of maintenance must be reasonable, justified, and proportionate to the husband’s income. The Court emphasized that while inflation and changed circumstances are relevant, they cannot be the sole basis for excessive increases.

@@ -24,6 +24,8 @@ In a significant ruling strengthening women’s rights in matrimonial disputes, 
 
 This judgment is crucial for individuals facing maintenance disputes, desertion, and matrimonial harassment in India, as it clearly establishes that financial neglect and legal non-compliance can be valid grounds for divorce.
 
+## Table of Contents
+
 ## Case Reference
 
 **Case Title:** Smt. Khusboo W/o Manohar Lal vs. Manohar Lal & Anr.  

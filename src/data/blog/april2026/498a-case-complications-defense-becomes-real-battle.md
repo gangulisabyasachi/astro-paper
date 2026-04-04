@@ -2,7 +2,7 @@
 author: Prithwish Ganguli
 pubDatetime: 2026-04-24T00:00:00+05:30
 modDatetime: 2026-04-24T00:00:00+05:30
-title: 498A Case Complications: When the Defense Becomes the Real Battle
+title: 498A Case Complications - When the Defense Becomes the Real Battle
 # slug: 498a-case-complications-defense-becomes-real-battle
 featured: false
 draft: false

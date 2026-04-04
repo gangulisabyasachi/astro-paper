@@ -2,7 +2,7 @@
 author: Prithwish Ganguli
 pubDatetime: 2026-04-28T00:00:00+05:30
 modDatetime: 2026-04-28T00:00:00+05:30
-title: Digital Evidence in Court: A Matrimonial Case That Took an Unexpected Turn
+title: Digital Evidence in Court - A Matrimonial Case That Took an Unexpected Turn
 # slug: digital-evidence-in-court-matrimonial-case-unexpected-turn
 featured: false
 draft: false

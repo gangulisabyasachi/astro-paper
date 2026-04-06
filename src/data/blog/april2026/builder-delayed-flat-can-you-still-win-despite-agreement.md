@@ -107,7 +107,8 @@ If your builder has delayed possession or violated commitments, you are not boun
 ---
 
 ## Read Full Article Online  
-👉 https://prithwishganguli.blogspot.com/2026/04/builder-delayed-your-flat-can-you-still.html
+👉 https://prithwishganguli.blogspot.com/2026/04/builder-delayed-your-flat-can-you-still.html  
+👉 https://medium.com/p/c2f208d6375a?postPublishedType=initial
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 author: Prithwish Ganguli
 pubDatetime: 2026-04-07T01:07:00+05:30
-modDatetime: 2026-04-07T01:07:00+05:30
+modDatetime: 2026-04-07T01:14:00+05:30
 title: Builder Delayed Your Flat? Can You Still Win Against the Builder Despite the Agreement
 # slug: builder-delayed-flat-can-you-still-win-despite-agreement
 featured: false
@@ -28,9 +28,9 @@ But a landmark judgment from the **State Consumer Disputes Redressal Commission,
 ## Case Overview
 
 In this case, the homebuyer raised serious concerns including:
-- Delay in handing over possession
-- Deficiency in construction and services
-- Failure to honour contractual commitments
+- Delay in handing over possession  
+- Deficiency in construction and services  
+- Failure to honour contractual commitments  
 
 The builder tried to defend itself by heavily relying on the terms of the builder-buyer agreement, claiming protection under contractual clauses.
 
@@ -51,9 +51,9 @@ Failure to deliver possession within the agreed time is a clear case of deficien
 
 **2. One-Sided Builder Agreements Are Not Binding**  
 Courts recognised that many builder-buyer agreements are:
-- Drafted heavily in favour of developers
-- Unfair and imbalanced
-- Designed to limit buyer rights
+- Drafted heavily in favour of developers  
+- Unfair and imbalanced  
+- Designed to limit buyer rights  
 
 Such clauses can be struck down or ignored.
 
@@ -65,18 +65,18 @@ Developers are treated as service providers, and any lapse makes them liable for
 
 **5. Reliefs Available to Homebuyers**  
 The Court can grant:
-- Refund of the amount paid
-- Interest for delay
-- Compensation for mental harassment
-- Direction to deliver possession
+- Refund of the amount paid  
+- Interest for delay  
+- Compensation for mental harassment  
+- Direction to deliver possession  
 
 ## Why This Judgment Is Important
 
 This case is highly relevant for:
-- Delayed housing projects
-- Builder fraud cases
-- Real estate litigation
-- Consumer disputes against developers
+- Delayed housing projects  
+- Builder fraud cases  
+- Real estate litigation  
+- Consumer disputes against developers  
 
 It sends a strong message:  
 **Builders cannot exploit contractual loopholes to escape legal responsibility.**
@@ -84,15 +84,15 @@ It sends a strong message:
 ## Practical Legal Guidance for Homebuyers
 
 If you are facing issues like:
-- Delay in possession
-- Builder not responding
-- Substandard construction
-- Hidden charges
+- Delay in possession  
+- Builder not responding  
+- Substandard construction  
+- Hidden charges  
 
 You can take legal action by:
-1. Filing a complaint before the Consumer Commission
-2. Approaching RERA (if applicable)
-3. Seeking compensation and refund
+1. Filing a complaint before the Consumer Commission  
+2. Approaching RERA (if applicable)  
+3. Seeking compensation and refund  
 
 ## Conclusion
 
@@ -103,6 +103,13 @@ The ruling in **Suman Kumar Pattnaik vs M/S. Orchid Developers Pvt. Ltd.** estab
 Courts are committed to ensuring fairness, accountability, and protection for homebuyers against arbitrary practices of builders.
 
 If your builder has delayed possession or violated commitments, you are not bound by unfair terms — you are protected by law.
+
+---
+
+## Read Full Article Online  
+👉 https://prithwishganguli.blogspot.com/2026/04/builder-delayed-your-flat-can-you-still.html
+
+---
 
 **Advocate Prithwish Ganguli**  
 House # 73, near Tank #10, behind Matri Sadan Hospital,  

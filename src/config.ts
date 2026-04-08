@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https:/blogs.prithwishganguli.in/", // replace this with your deployed domain
+  website: "https://blogs.prithwishganguli.in/", // replace this with your deployed domain
   author: "Prithwish Ganguli",
   profile: "https://prithwishganguli.in/",
   desc: "Prithwish Ganguli Legal Blog offers clear, practical insights on Indian law including criminal law, cyber law, consumer rights, FIR, bail, digital evidence, and legal procedures, with a focus on Kolkata and current legal developments.",

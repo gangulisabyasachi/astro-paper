@@ -2,7 +2,7 @@
 author: Prithwish Ganguli
 pubDatetime: 2026-04-08T16:34:00+05:30
 modDatetime: 2026-04-08T16:34:00+05:30
-title: False Allegations of Affairs = Mental Cruelty: Landmark High Court Ruling Every Spouse Must Know
+title: False Allegations of Affairs = Mental Cruelty - Landmark High Court Ruling Every Spouse Must Know
 # slug: false-allegations-of-affairs-mental-cruelty-high-court-ruling
 featured: false
 draft: false

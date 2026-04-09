@@ -128,6 +128,9 @@ If you are dealing with:
 Only proper legal documentation and evidence can establish your rights. Don’t risk your property based on incomplete understanding—get the right legal advice before it’s too late.
 
 ---
+**P. Kishore Kumar v Vittal K. Patkar (2023 INSC 1009)**
+
+---
 **Advocate Prithwish Ganguli**
 House # 73, near Tank #10, behind Matri Sadan Hospital,
 EE Block, Sector II, Bidhannagar, Kolkata, West Bengal 700091

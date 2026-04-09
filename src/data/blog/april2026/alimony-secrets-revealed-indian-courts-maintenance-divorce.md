@@ -18,7 +18,7 @@ ogImage: "@/assets/images/alimony-maintenance-india.png"
 
 # Alimony Secrets Revealed: How Indian Courts Really Decide Maintenance in Divorce
 
-![Alimony and Maintenance in India](@/assets/images/alimony-maintenance-india.png)
+![Alimony and Maintenance in India](../../../assets/images/alimony-maintenance-india.png)
 
 ## Table of contents
 
@@ -170,3 +170,8 @@ You must focus on:
 
 ---
 **Reference:** CO 4228 of 2012 Rita Dey Chowdhury nee Nandy vs. Dr. Kalyan Dey Chowdhury High Court, Calcutta dated 15.09.2016
+
+**Advocate Prithwish Ganguli**  
+House # 73, near Tank #10, behind Matri Sadan Hospital,  
+EE Block, Sector II, Bidhannagar, Kolkata, West Bengal 700091  
+M.: 99030 16246

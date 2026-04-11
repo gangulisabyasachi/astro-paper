@@ -17,7 +17,7 @@ ogImage: "@/assets/images/best-divorce-lawyer-kolkata.jpeg"
 
 # Section 304-B IPC Dowry Death Explained: Allahabad High Court Clarifies Proof Required Under Section 113-B Evidence Act
 
-![Best Divorce Lawyer Kolkata](../../../assets/images/best-divorce-lawyer-kolkata.jpeg)
+<img src="../../../assets/images/best-divorce-lawyer-kolkata.jpeg" alt="Best Divorce Lawyer Kolkata" style="max-width: 450px; width: 100%; height: auto; border-radius: 12px; margin: 1.5rem auto; display: block;" />
 
 ## Table of contents
 

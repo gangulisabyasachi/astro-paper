@@ -69,3 +69,11 @@ html[data-theme="dark"] {
 :target {
   scroll-margin-block: 1rem;
 }
+
+/* Blog Post Image Styling */
+article.app-prose img {
+  @apply mx-auto rounded-xl;
+  display: block;
+  max-height: 800px;
+  width: auto;
+}

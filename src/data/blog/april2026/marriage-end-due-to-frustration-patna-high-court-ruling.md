@@ -12,12 +12,12 @@ tags:
   - Matrimonial Law
   - Family Law India
 description: "In a groundbreaking judgment, the Patna High Court has applied the doctrine of frustration to dissolve a marriage under the Special Marriage Act, 1954."
-ogImage: "/assets/images/marriage_frustration_case.jpeg"
+ogImage: "@/assets/images/marriage_frustration_case.jpeg"
 ---
 
 # Marriage Can End Due to “Frustration”: Landmark Patna High Court Ruling Under Special Marriage Act
 
-<img src="/assets/images/marriage_frustration_case.jpeg" alt="Marriage Frustration Case" style="width: 100%; height: auto; border-radius: 12px; margin: 1.5rem auto; display: block;" />
+![Marriage Frustration Case](../../../assets/images/marriage_frustration_case.jpeg)
 
 ## Table of contents
 

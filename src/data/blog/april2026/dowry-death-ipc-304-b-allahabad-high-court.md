@@ -12,12 +12,12 @@ tags:
   - Allahabad High Court
   - Legal Awareness
 description: "Learn about the high threshold for proof in dowry death cases. The Allahabad High Court clarifies that Section 113-B Evidence Act presumption arises only after foundational facts are proved."
-ogImage: "/assets/images/best-divorce-lawyer-kolkata.jpeg"
+ogImage: "@/assets/images/best-divorce-lawyer-kolkata.jpeg"
 ---
 
 # Section 304-B IPC Dowry Death Explained: Allahabad High Court Clarifies Proof Required Under Section 113-B Evidence Act
 
-<img src="/assets/images/best-divorce-lawyer-kolkata.jpeg" alt="Best Divorce Lawyer Kolkata" style="max-width: 450px; width: 100%; height: auto; border-radius: 12px; margin: 1.5rem auto; display: block;" />
+![Best Divorce Lawyer Kolkata](../../../assets/images/best-divorce-lawyer-kolkata.jpeg)
 
 ## Table of contents
 

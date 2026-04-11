@@ -12,12 +12,12 @@ tags:
   - Criminal Law
   - Commercial Law
 description: "Dishonour of a post-dated cheque, by itself, does not amount to cheating under Section 420 IPC. The Supreme Court clarifies the line between civil disputes and criminal crimes."
-ogImage: "/assets/images/best_lawyer_kolkata_alipore_barasat.png"
+ogImage: "@/assets/images/best_lawyer_kolkata_alipore_barasat.png"
 ---
 
 # Bounced Cheque ≠ Cheating: Supreme Court Draws a Clear Line Between Civil Disputes and Criminal Offence
 
-<img src="/assets/images/best_lawyer_kolkata_alipore_barasat.png" alt="Best Lawyer Kolkata Alipore Barasat" style="width: 100%; height: auto; border-radius: 12px; margin: 1.5rem auto; display: block;" />
+![Best Lawyer Kolkata Alipore Barasat](../../../assets/images/best_lawyer_kolkata_alipore_barasat.png)
 
 ## Table of contents
 

@@ -13,12 +13,12 @@ tags:
   - Hindu Marriage Act
   - Legal Awareness
 description: "How much maintenance should a wife get after divorce? Learn the 20-30% rule, the impact of standard of living, and how Indian courts calculate alimony for financial dignity."
-ogImage: "/assets/images/divorce_lawyer_alipore_kolkata_barasat.jpeg"
+ogImage: "@/assets/images/divorce_lawyer_alipore_kolkata_barasat.jpeg"
 ---
 
 # Alimony Secrets Revealed: How Indian Courts Really Decide Maintenance in Divorce
 
-<img src="/assets/images/divorce_lawyer_alipore_kolkata_barasat.jpeg" alt="Divorce Lawyer Alipore Kolkata Barasat" style="width: 100%; height: auto; border-radius: 12px; margin: 1.5rem auto; display: block;" />
+![Divorce Lawyer Alipore Kolkata Barasat](../../../assets/images/divorce_lawyer_alipore_kolkata_barasat.jpeg)
 
 ## Table of contents
 

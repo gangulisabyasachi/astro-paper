@@ -12,12 +12,12 @@ tags:
   - Supreme Court Precedent
   - Family Law India
 description: "Understand how 'Cruelty' has evolved from a physical act to a psychological state in Indian jurisprudence. Learn about landmark judgments and legal strategies for divorce in Kolkata."
-ogImage: "@/assets/images/legal-definition-cruelty-divorce.jpeg"
+ogImage: "/assets/images/legal-definition-cruelty-divorce.jpeg"
 ---
 
 # Mental Cruelty as a Ground for Divorce: Evolution of Judicial Trends in India
 
-![Legal Definition of Cruelty for Divorce](../../../assets/images/legal-definition-cruelty-divorce.jpeg)
+<img src="/assets/images/legal-definition-cruelty-divorce.jpeg" alt="Legal Definition of Cruelty for Divorce" style="width: 100%; height: auto; border-radius: 12px; margin: 1.5rem auto; display: block;" />
 
 ## Table of contents
 

@@ -12,12 +12,12 @@ tags:
   - West Bengal
   - Revenue Records
 description: "Think your name in land records makes you the owner? The Supreme Court clarifies that mutation entries and khatiyans are for tax collection, not ownership proof."
-ogImage: "@/assets/images/wblrtt_salt_lake_advocate_kolkata.png"
+ogImage: "/assets/images/wblrtt_salt_lake_advocate_kolkata.png"
 ---
 
 # Is Your Name in Land Records? That Still Doesn’t Make You the Owner – Supreme Court Clarifies
 
-![WBLRTT Salt Lake Advocate Kolkata](../../../assets/images/wblrtt_salt_lake_advocate_kolkata.png)
+<img src="/assets/images/wblrtt_salt_lake_advocate_kolkata.png" alt="WBLRTT Salt Lake Advocate Kolkata" style="width: 100%; height: auto; border-radius: 12px; margin: 1.5rem auto; display: block;" />
 
 ## Table of contents
 

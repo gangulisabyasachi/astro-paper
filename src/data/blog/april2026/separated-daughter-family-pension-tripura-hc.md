@@ -63,6 +63,9 @@ Navigating the complexities of the Family Court and understanding your rights to
 If you are facing similar challenges regarding your marital status and its impact on your inheritance or financial rights, contact **Advocate Prithwish Ganguli** for a comprehensive legal consultation.
 
 ---
+**Cause Title: Smt. Ujjala Rani Paul v. Agartala Municipal Corporation (Case No. WP(C) 132 OF 2025)**
+
+---
 
 **Advocate Prithwish Ganguli**  
 House # 73, near Tank #10, behind Matri Sadan Hospital,  

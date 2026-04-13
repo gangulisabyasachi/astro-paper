@@ -1,7 +1,7 @@
 ---
 author: Prithwish Ganguli
-pubDatetime: 2026-04-13T14:06:00+05:30
-modDatetime: 2026-04-13T14:06:00+05:30
+pubDatetime: 2026-04-13T14:17:00+05:30
+modDatetime: 2026-04-13T14:17:00+05:30
 title: "How to Win a Child Custody Case in India (Practical Tips)"
 featured: false
 draft: false

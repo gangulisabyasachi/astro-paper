@@ -12,12 +12,12 @@ tags:
   - Kolkata Law
   - Legal Advice
 description: "Learn how to win a child custody case in India with expert tips from a child custody lawyer in Kolkata. Understand court factors, legal strategy & your rights."
-ogImage: "@/assets/images/whatsapp_image_custody.jpeg"
+ogImage: "@/assets/images/divorce_lawyer_kolkata_alipore_barasat.jpeg"
 ---
 
 # How to Win a Child Custody Case in India (Practical Tips)
 
-![Child Custody Case India](../../../assets/images/whatsapp_image_custody.jpeg)
+![Child Custody Case India](../../../assets/images/divorce_lawyer_kolkata_alipore_barasat.jpeg)
 
 ## Table of contents
 
@@ -96,6 +96,9 @@ Avoiding these mistakes can greatly improve your chances.
 Winning a child custody case in India requires a combination of legal strategy, emotional intelligence, and proper documentation. The court’s primary concern is always the welfare of the child, so your approach must reflect responsibility and care.
 
 Consulting an experienced **child custody lawyer Kolkata** or **family lawyer in Kolkata** can make all the difference.
+
+---
+**Smt. Ujjala Rani Paul v. Agartala Municipal Corporation (Case No. WP(C) 132 OF 2025)**
 
 ---
 

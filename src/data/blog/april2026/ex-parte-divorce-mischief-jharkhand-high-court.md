@@ -63,6 +63,9 @@ Whether you are dealing with an ex-parte decree or need assistance with a contes
 If you believe a divorce decree has been obtained against you unfairly or through suppression of facts, contact **Advocate Prithwish Ganguli** to restore your legal standing and fight for substantial justice.
 
 ---
+**F.A. No. 74 of 2025 with I.A. No. 2923 of 2025; Menka Kumari vs. Uttam Kumar Das**
+
+---
 
 **Advocate Prithwish Ganguli**
 - **Mobile:** 9903016246

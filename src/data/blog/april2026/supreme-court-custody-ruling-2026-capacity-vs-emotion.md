@@ -71,3 +71,5 @@ International custody and high-stakes matrimonial disputes require a blend of em
 - **Google Profile:** [View Profile](https://share.google/LmJyxZ3GKZMSCClOG)
 - **Chamber:** EE Block, Sector II, Bidhannagar, Kolkata 700091
 - **Courts Served:** Alipore, Barasat, Barrackpore, Sealdah, Baruipur, Serampore.
+
+#DivorceLawyerKolkata #FamilyLawyerKolkata #ChildCustody #SupremeCourt #LegalUpdates2026 #AliporeCourt #BarasatCourt #SealdahCourt #ChildCustodyLawyer #WestBengal #KolkataLegalServices

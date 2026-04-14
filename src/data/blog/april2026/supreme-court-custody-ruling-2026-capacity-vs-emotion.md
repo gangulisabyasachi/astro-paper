@@ -11,6 +11,15 @@ tags:
   - International Law
   - Kolkata Law
   - Guardianship
+  - Divorce Lawyer Kolkata
+  - Family Lawyer Kolkata
+  - Legal Updates 2026
+  - Alipore Court
+  - Barasat Court
+  - Sealdah Court
+  - Child Custody Lawyer
+  - West Bengal
+  - Kolkata Legal Services
 description: "Supreme Court's 2026 ruling in Mohtashem Billah Malik v. Sana Aftab redefines child welfare to include financial capacity, education, and global standard of living."
 ogImage: "@/assets/images/custody-lawyer-kolkata-supreme-court.jpeg"
 ---
@@ -71,5 +80,3 @@ International custody and high-stakes matrimonial disputes require a blend of em
 - **Google Profile:** [View Profile](https://share.google/LmJyxZ3GKZMSCClOG)
 - **Chamber:** EE Block, Sector II, Bidhannagar, Kolkata 700091
 - **Courts Served:** Alipore, Barasat, Barrackpore, Sealdah, Baruipur, Serampore.
-
-#DivorceLawyerKolkata #FamilyLawyerKolkata #ChildCustody #SupremeCourt #LegalUpdates2026 #AliporeCourt #BarasatCourt #SealdahCourt #ChildCustodyLawyer #WestBengal #KolkataLegalServices

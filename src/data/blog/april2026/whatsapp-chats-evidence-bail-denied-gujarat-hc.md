@@ -102,8 +102,6 @@ EE Block, Sector II, Bidhannagar, Kolkata, West Bengal 700091
 
 ---
 
-### Schema Markup for Performance
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

@@ -17,7 +17,7 @@ ogImage: "@/assets/images/divorce_lawyer_kolkata_alipore_barasat.jpeg"
 
 # Can an NRI File or Contest a Divorce Case in Kolkata While Living Abroad?
 
-![NRI Divorce Case Kolkata](../../../assets/images/divorce_lawyer_kolkata_alipore_barasat.jpeg)
+
 
 ## Table of contents
 

@@ -17,7 +17,6 @@ ogImage: "@/assets/images/divorce_lawyer_kolkata_alipore_barasat.jpeg"
 
 # How Can an NRI Solve a Property Dispute in Kolkata Without Coming to India?
 
-![NRI Property Dispute Kolkata](../../../assets/images/divorce_lawyer_kolkata_alipore_barasat.jpeg)
 
 ## Table of contents
 

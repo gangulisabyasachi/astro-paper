@@ -17,7 +17,7 @@ ogImage: "@/assets/images/divorce_lawyer_kolkata_alipore_barasat.jpeg"
 
 # Received a Legal Notice in Kolkata While Living Abroad? What Should an NRI Do Immediately?
 
-![Legal Notice NRI Disclaimer](../../../assets/images/divorce_lawyer_kolkata_alipore_barasat.jpeg)
+
 
 ## Table of contents
 
